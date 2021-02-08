@@ -1,9 +1,0 @@
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\obj\Debug\herramientas.csprojAssemblyReference.cache
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\obj\Debug\herramientas.Form1.resources
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\obj\Debug\herramientas.Properties.Resources.resources
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\obj\Debug\herramientas.csproj.GenerateResource.cache
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\bin\Debug\herramientas.exe.config
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\bin\Debug\herramientas.exe
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\bin\Debug\herramientas.pdb
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\obj\Debug\herramientas.exe
-C:\Users\Ivanesa\source\repos\herramientas\herramientas\obj\Debug\herramientas.pdb
